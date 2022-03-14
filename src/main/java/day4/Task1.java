@@ -39,6 +39,5 @@ public class Task1 {
         System.out.printf(" Длина массива: %d \n Количество чисел больше 8: %d \n Количество чисел равных 1: %d \n Количество четных чисел: %d \n Количество нечетных чисел: %d \n Сумма всех элементов массива: %d", lenthCounter, countE,countOne, countEv, countNotev, sum);
 
 
-
     }
 }

@@ -19,6 +19,5 @@ public class Task4 {
         }
         System.out.println(max_sum);
         System.out.println(indx);
-
     }
 }
