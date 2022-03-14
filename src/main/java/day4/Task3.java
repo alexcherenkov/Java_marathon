@@ -23,6 +23,5 @@ public class Task3 {
         System.out.println();
         System.out.println(counter);
 
-
     }
 }
